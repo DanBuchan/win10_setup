@@ -40,4 +40,4 @@ Setup Containers to sync
 6. Settings -> Themes -> background -> load from backup pictures
 7. Right click taskbar search -> search -> hide from taskbar
 8. Settings -> Taskbar -> Use Small Taskbar Buttons
-9. Open User Directory -. Right Click Properties -> Select Hidden -> Apply
+9. Open Explorer -> View Menu -> Tick Hidden Items
