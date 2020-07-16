@@ -1,10 +1,10 @@
 # Disk Setup
 
-Disk 0 D: 1tb - ST31000524AS - Internal file store
-Disk 1 E: F: 250Gb - WDC WD2500JS-75NCB3- Spare space?
-Disk 2 G: 500Gb - Samsung SSG 850 EVO 500GB - future Centos disk
-Disk 3 C: 1tb - CT1000P1SSD8 - M2 drive with OS
-Disk 4 H: 1tb asmedia ASMT11523 - USB Backup disk
+* Disk 0 D: 1tb - ST31000524AS - Internal file store
+* Disk 1 E: F: 250Gb - WDC WD2500JS-75NCB3- Spare space?
+* Disk 2 G: 500Gb - Samsung SSG 850 EVO 500GB - future Centos disk
+* Disk 3 C: 1tb - CT1000P1SSD8 - M2 drive with OS
+* Disk 4 H: 1tb asmedia ASMT11523 - USB Backup disk
 
 # OS Setup
 
