@@ -8,7 +8,7 @@
 
 # Hardware
 
-* Ryzen 3600X
+* Ryzen 3600X 3.8Ghz (boost to 4.4Ghz)
 * MSI B450-A Pro Max
 * Gigabit RTC 2060
 
