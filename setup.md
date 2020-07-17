@@ -6,6 +6,12 @@
 * Disk 3 C: 1tb - CT1000P1SSD8 - M2 drive with OS
 * Disk 4 H: 1tb asmedia ASMT11523 - USB Backup disk
 
+# Hardware
+
+* Ryzen 3600X
+* MSI B450-A Pro Max
+* Gigabit RTC 2060
+
 # OS Setup
 
 Copy back files from back up disk (My Documents, Pictures, Music, Binaries, etc...)
