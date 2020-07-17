@@ -18,6 +18,7 @@
 * Installed MSI Live Update to get motherboard drivers
 * Installed AMD B450 Chipset Drivers
 * Downloaded motherboard bios, flashed bios (to get the M2 drive to be a boot option you must boot WITHOUT any SATA drives connected)
+* Open Control Panel -> Power Options
 
 # Software Install
 
