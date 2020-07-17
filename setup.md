@@ -14,7 +14,10 @@
 
 # OS Setup
 
-Copy back files from back up disk (My Documents, Pictures, Music, Binaries, etc...)
+* Copy back files from back up disk (My Documents, Pictures, Music, Binaries, etc...)
+* Installed MSI Live Update to get motherboard drivers
+* Installed AMD B450 Chipset Drivers
+* Downloaded motherboard bios, flashed bios (to get the M2 drive to be a boot option you must boot WITHOUT any SATA drives connected)
 
 # Software Install
 
